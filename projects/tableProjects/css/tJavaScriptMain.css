@@ -1,0 +1,33 @@
+#header {
+	margin: 40px auto;
+	text-align: center;
+}
+
+#editableTable {
+	background: #ddd;
+	border: 3px solid darkgreen;
+	margin:0 auto;
+
+}
+
+#editableTable td{
+	padding: 15px;
+	border: 1px solid darkgreen;
+
+}
+tr:nth-child(even){
+	background-color: #ccc;
+}
+
+#tCaption {
+	font-size: 1.3rem;
+	font-weight: bold;
+	padding-bottom: 30px;
+	color:darkgreen;
+}
+
+thead th {
+	padding: 15px;
+	border: 1px solid deeppink;
+	background-color:#599a68;
+}
